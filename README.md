@@ -25,7 +25,7 @@ Visuals:
 
 Here is the screenshot:
 
-![Image1](assets/images/screenshot.png)
+![Image1](Assets/images/screenshot.png)
 
 
 Installation:
