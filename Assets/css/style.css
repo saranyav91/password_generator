@@ -1,0 +1,100 @@
+h1 {
+    text-align: center;
+    font-size: 34px;
+    font-weight: 700;
+    color:#3b4954;
+  }
+
+  h2{
+    text-align: left;
+    color:#3b4954;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  hr {
+    height: 2px;
+    border-width: 0px;
+    background-color :#dddddd;
+    color: #dddddd;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  
+  html{
+    background-color: #f9fbfd;
+  }
+  .container{
+    text-align: center;
+  }
+  textarea {
+    display:block;
+    margin-left: 50px;
+    margin-right: 50px; 
+    height: 140px;
+    width: 92%;
+    font-size: 17px;
+    text-align: center; 
+}
+  .row2 { 
+    border-top: 4px solid #dddddd;
+  }
+  
+  .row2-1 {
+    border: 2px solid #dddddd;
+    background-color: white;
+    margin: auto;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    overflow: auto;
+  }
+  #generate {
+    padding: 10px;
+    margin: 24px;
+    cursor: pointer;
+    font-size: 24px;
+    background-color:#af0808;
+    color: white;
+    border-radius: 15px;
+    border-color: #af0808;
+  }
+
+  #copy {
+    padding: 10px;
+    margin: 24px;
+    cursor: pointer;
+    font-size: 24px;
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+    border-color: grey;
+    
+  }
+
+  #password{
+      color:grey;
+      border: 3px dashed #c7cdd5;
+      border-radius: 5px;
+      
+  }
+
+  #copy , #generate {
+    display:inline-block;
+    /**other codes**/
+    }
+
+    ::-webkit-input-placeholder {
+      text-align: center;
+   }
+   
+   :-moz-placeholder { /* Firefox 18- */
+      text-align: center;  
+   }
+   
+   ::-moz-placeholder {  /* Firefox 19+ */
+      text-align: center;  
+   }
+   
+   :-ms-input-placeholder {  
+      text-align: center; 
+   }
