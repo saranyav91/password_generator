@@ -30,7 +30,7 @@ Here is the screenshot:
 
 Installation:
 
-This webpage is available as my github page whose link is https://saranyav91.github.io/portfolio_bootstrap/
+This webpage is available as my github page whose link is https://saranyav91.github.io/password_generator/
 
 Usage:
 
