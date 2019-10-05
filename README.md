@@ -13,7 +13,7 @@ Length (must be between 8 and 128 characters)
 Character type:
 
 
-Special characters (see examples)
+Special characters 
 Numeric characters
 Lowercase characters
 Uppercase characters
